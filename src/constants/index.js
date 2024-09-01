@@ -38,7 +38,7 @@ export const PROJECTS = [
     image: project2,
     description:
       "Bizzilly is a Single Page web Application (SPWA) made with ReactJS and Strapi database. This is a search application displaying information pertaining to various businesses. Bizzilly will help its users find business organizations within the range of 100 kms. The website comprises of impressive web-based interface using Material UI. This Web Application makes it easy for users to complete a desired action without requesting too much information.",
-    technologies: ["React Js", "Figma", "Strapi"],
+    technologies: ["React Js", "Figma", "Strapi", "AWS"],
   },
 
   {
@@ -47,6 +47,13 @@ export const PROJECTS = [
     description:
       "Applied theoretical concepts to real-world situations in my undergraduate program. Developed 'Inventory Management System' with Python for efficient backend and ReactJS for a user-friendly UI. Implemented tech solutions, ensuring seamless product management, and actively contributed to the software development process.",
     technologies: ["React js", "Python", "Figma"],
+  },
+  {
+    title: "KAYAN School Device",
+    image: project2,
+    description:
+      "implemented a comprehensive cross-platform desktop application using ElectronJS and React for remote learning devices, featuring simultaneous screen and dual-camera capture, real-time media recording, post-session download capabilities, and integration with broader educational software ecosystem, enhancing remote learning experiences for schools.",
+    technologies: ["Electron js"],
   },
   {
     title: "Portfolio Website",
