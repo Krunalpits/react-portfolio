@@ -1,6 +1,6 @@
 // import logo from "../assets/KevinRushLogo.png";
 import { FaLinkedin} from "react-icons/fa";
-import kp from  "../assets/kp.png"
+import kp from  "../assets/kp.svg"
 const Navbar = () => {
     return (
         <nav className="mb-20 flex items-center justify-between py-6">
