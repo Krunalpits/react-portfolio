@@ -25,6 +25,15 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
+
+  {
+    title: "AI Image Generation App ",
+    image: project4,
+    description:
+      "Built and optimized a MERN stack application with integrated API functionality for generating images from text, delivering efficient rendering and a seamless user experience.",
+
+    technologies: ["React js", "Node js", "MongoDB", "Express js"],
+  },
   {
     title: "KNP & Associates Reporting Software ",
     image: project1,
